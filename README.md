@@ -1,4 +1,3 @@
-Here's a detailed README for your project, considering it's in development:
 
 # Decentralized File Storage System
 
